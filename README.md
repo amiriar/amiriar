@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Chat App**
+ 🔭 I’m currently working on **a secret project**
  
- 🌱 I’m currently learning **TypeScript, NestJS**
+ 🌱 I’m currently learning **Python, Django**
 
 💬 Ask me about **Node.js, React or anything [here](https://t.me/amiriar)**
 
