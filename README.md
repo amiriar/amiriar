@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👾, I'm Amirreza Abdolrahimi</h1>
 
-![Github Banner](https://github.com/amiriar/amiriar/blob/master/assets/banner.png)
+![Github Banner](https://github.com/amiriar/amiriar/blob/main/assets/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
 
